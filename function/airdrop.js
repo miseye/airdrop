@@ -198,7 +198,7 @@ function startHandleAirdrop(index) {
     }, index+4);
 }
 
-const airdropListManager = require('../filemanger/airdropListManager');
+const airdropListManager = null;
 
 function startAirdrop(filePath,addressIndex,amountIndex,addressNeedJudgeRepeat,resultCall){
 
